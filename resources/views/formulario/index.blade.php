@@ -37,7 +37,7 @@
 
                 <!-- Presentation File -->
                 <div>
-                    <label for="fichero" class="block text-sm font-medium text-gray-700">Presentación</label>
+                    <label for="fichero" class="block text-sm font-medium text-gray-700">Presentación1</label>
                   <input type="file" name="fichero" id="file" class="mt-1 block w-full text-gray-500">
                 </div>
 
