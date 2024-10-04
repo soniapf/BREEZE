@@ -30,7 +30,7 @@
 
                 <!-- Email -->
                 <div>
-                    <label for="email" class="block text-sm font-medium text-gray-700">Correo Electrónico</label>
+                    <label for="email" class="block text-sm font-medium text-gray-700">Correo Electrónico (email)</label>
                     <input type="email" name="email" id="email" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm" required>
                 </div>
 
